@@ -1,0 +1,15 @@
+{
+	"name": "niranjanas01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2ccd9c1-2c48-44c1-8943-6215ab19986c",
+		"tenantId": "8361e048-f6e9-464e-9e09-6027e0d33101"
+	}
+}
